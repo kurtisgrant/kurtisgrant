@@ -1,0 +1,21 @@
+- 👋 Hi, I’m @kurtisgrant
+- 👀 I’m interested in:
+  - Music <sup><sub>(I play piano a little, but mostly I just love discovering new music and growing my library)</sub></sup>
+  - Urban Planning & Walkable Cities
+  - Being Active
+    - Running
+    - Hiking
+    - Dance
+    - Yoga
+  - Programming
+    - Web Development
+      - HTML Canvas & Animated SVGs
+      - Data visualization
+      - UX Design
+    - Computational biology
+    - Neural networks
+  - Tech Innovation
+  - Graphic Design
+  - Economics
+- 🌱 I’m currently furthering my knowledge of web development by attending a full-time bootcamp by Lighthouse Labs
+- 📫 How to reach me [Kurtis Grant on LinkedIn](https://github.com/kurtisgrant)
