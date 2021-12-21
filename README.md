@@ -1,7 +1,7 @@
 # 👋🏼 Hi, I’m @kurtisgrant
 ### 📍 **Ottawa**
-Made in Bancroft, Ontario. Designed by Apple in California
-### 👀 Things I'm interested in:
+From Bancroft, Ontario. Designed by Apple in California
+### 👀 Some of my Interests:
 - Music (I play piano a little, but mostly I just love discovering new music and growing my library)
 - Being active & outdoors (running, hiking, dance, yoga, soccer)
 - Urban planning & [**walkable cities**](https://www.walkscore.com/)
