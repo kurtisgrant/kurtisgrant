@@ -7,7 +7,7 @@ Living in Ottawa, ON, but originally from Bancroft, ON. (You probably haven't he
 - Music (I play piano a little, but mostly I just love discovering new music and growing my library)
 - Being active & outdoors (running, hiking, dance, yoga, soccer)
 - Education (& tech in education)
-- Urban planning & [**walkable cities**](https://www.walkscore.com/)
+- Urban planning & [walkable cities](https://www.walkscore.com/)
 - Programming
   - Web development
     - HTML canvas & animated SVGs
