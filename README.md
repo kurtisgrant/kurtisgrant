@@ -32,7 +32,7 @@ I was introduced to programming many moons ago in 2011 when I had the privilege 
   - and several smaller courses and personal projects
  
 #### 🧑🏻‍💻 2022) Where are they now?
-Having recently graduated from **Lighthouse Labs**, I can be found at my computer keeping my skills sharp, working on interesting projects, contributing to open-source software and patiently waiting for my knight in shining armour (or gainful employment, I'll take either).
+Having recently graduated from **Lighthouse Labs**, I can be found at my computer keeping my skills sharp, working on interesting projects, contributing to open-source software.
 
 ### 📫 How to reach me:
 ## [Kurtis Grant on LinkedIn](https://www.linkedin.com/in/kurtis-grant)
